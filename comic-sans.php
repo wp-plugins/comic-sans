@@ -4,7 +4,7 @@ Plugin Name: Comic Sans
 Plugin URI: http://www.ramoonus.nl/wordpress/comic-sans/
 Description: Replaces all fonts with Comic Sans MS (using one line of CSS)
 Author: Ramoonus
-Version: 1.0
+Version: 1.0.0
 Author URI: http://www.ramoonus.nl/
 */
 
@@ -16,12 +16,4 @@ function rw_comic_sans_css() { // replaces everything ( * ) with the comic sans 
 // Adding things to the header
 add_action('wp_head', 'rw_comic_sans_css');
 
-// thats it!
-
-
-
-// for v2 // 2012 
-//if(checkdate(7, 1, 2012) ) {
-//	add_action('wp_head', 'rw_comic_sans_css');
-//	}; 
 ?>
