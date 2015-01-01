@@ -3,7 +3,7 @@ Contributors: ramoonus
 Donate link: http://www.ramoonus.nl/
 Tags: html5, canvas, javascript
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: 1.0.0
 
 Replaces all fonts with Comic Sans MS (using one line of CSS)
